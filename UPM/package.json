@@ -1,6 +1,6 @@
 {
-  "name": "com.em.template.upmandnuget",
-  "displayName": "EM.Template.UpmAndNuGet",
+  "name": "com.em.template.upm",
+  "displayName": "EM.Template.Upm",
   "version": "0.0.2",
   "author": {
     "name": "Maxim Epishev",
